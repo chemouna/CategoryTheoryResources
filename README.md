@@ -13,6 +13,9 @@ i will try to put only links to material that was able to understand.
 * [Some Basic Examples of Categories](http://scienceblogs.com/goodmath/2006/06/09/some-basic-examples-of-categor/)
 * [Categories as Types](https://jeremykun.com/2013/05/04/categories-as-types/)
 
+## Properties of Morphisms
+* (Isomorphisms, Monomorphisms, and Epimorphisms)[https://jeremykun.com/2013/05/15/properties-of-morphisms/]
+
 ## Functors
 
 ## Monads
