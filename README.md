@@ -15,6 +15,7 @@ i will try to put only links to material that was able to understand.
 
 ## Properties of Morphisms
 * (Isomorphisms, Monomorphisms, and Epimorphisms)[https://jeremykun.com/2013/05/15/properties-of-morphisms/]
+* [Universal Properties](https://jeremykun.com/2013/05/24/universal-properties/)
 
 ## Functors
 
