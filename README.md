@@ -14,8 +14,9 @@ i will try to put only links to material that was able to understand.
 * [Categories as Types](https://jeremykun.com/2013/05/04/categories-as-types/)
 
 ## Properties of Morphisms
-* (Isomorphisms, Monomorphisms, and Epimorphisms)[https://jeremykun.com/2013/05/15/properties-of-morphisms/]
+* [Isomorphisms, Monomorphisms, and Epimorphisms](https://jeremykun.com/2013/05/15/properties-of-morphisms/)
 * [Universal Properties](https://jeremykun.com/2013/05/24/universal-properties/)
+* [Universal property](https://en.wikipedia.org/wiki/Universal_property)
 
 ## Functors
 
