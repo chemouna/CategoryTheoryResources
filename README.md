@@ -19,6 +19,7 @@ i will try to put only links to material that was able to understand.
 * [Universal property](https://en.wikipedia.org/wiki/Universal_property)
 
 ## Functors
+* [Functoriality](https://jeremykun.com/2013/07/14/functoriality/)
 
 ## Monads
 
