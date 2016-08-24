@@ -12,6 +12,10 @@ i will try to put only links to material that was able to understand.
 * [Categories](https://unapologetic.wordpress.com/2007/05/22/categories/)
 * [Some Basic Examples of Categories](http://scienceblogs.com/goodmath/2006/06/09/some-basic-examples-of-categor/)
 * [Categories as Types](https://jeremykun.com/2013/05/04/categories-as-types/)
+* [Metacategory](https://ncatlab.org/nlab/show/metacategory)
+* [Category of groups](https://en.wikipedia.org/wiki/Category_of_groups)
+* [Group homomorphism](https://en.wikipedia.org/wiki/Group_homomorphism)
+* [Concrete category](https://en.wikipedia.org/wiki/Concrete_category)
 
 ## Properties of Morphisms
 * [Isomorphisms, Monomorphisms, and Epimorphisms](https://jeremykun.com/2013/05/15/properties-of-morphisms/)
