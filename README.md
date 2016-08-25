@@ -16,16 +16,23 @@ i will try to put only links to material that was able to understand.
 * [Category of groups](https://en.wikipedia.org/wiki/Category_of_groups)
 * [Group homomorphism](https://en.wikipedia.org/wiki/Group_homomorphism)
 * [Concrete category](https://en.wikipedia.org/wiki/Concrete_category)
+* [Subcategory](https://en.wikipedia.org/wiki/Subcategory)
 
 ## Properties of Morphisms
 * [Isomorphisms, Monomorphisms, and Epimorphisms](https://jeremykun.com/2013/05/15/properties-of-morphisms/)
 * [Universal Properties](https://jeremykun.com/2013/05/24/universal-properties/)
 * [Universal property](https://en.wikipedia.org/wiki/Universal_property)
+* [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism)
 
 ## Functors
 * [Functoriality](https://jeremykun.com/2013/07/14/functoriality/)
+* [Full and faithful functors](https://en.wikipedia.org/wiki/Full_and_faithful_functors)
+* [Full and Faithful Functors](https://unapologetic.wordpress.com/2007/06/05/full-and-faithful-functors/)
 
 ## Monads
+
+## Related Math concepts
+* [Field of fractions](https://en.wikipedia.org/wiki/Field_of_fractions)
 
 ## Blogs
 * [The Unapologetic Mathematician](https://unapologetic.wordpress.com/)
