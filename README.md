@@ -44,6 +44,7 @@ i will try to put only links to material that was able to understand.
 * [Semigroup](https://en.wikipedia.org/wiki/Semigroup)
 * [Semigroup with two elements](https://en.wikipedia.org/wiki/Semigroup_with_two_elements)
 * [Magma](https://en.wikipedia.org/wiki/Magma_(algebra))
+* [Regular semigroup](https://en.wikipedia.org/wiki/Regular_semigroup)
 
 ## Blogs
 * [The Unapologetic Mathematician](https://unapologetic.wordpress.com/)
