@@ -37,7 +37,7 @@ i will try to put only links to material that was able to understand.
 
 ## Monads
 
-## Related Math concepts
+## Algebra
 * [Field of fractions](https://en.wikipedia.org/wiki/Field_of_fractions)
 * [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
 * [Inverse element](https://en.wikipedia.org/wiki/Inverse_element)
@@ -45,6 +45,7 @@ i will try to put only links to material that was able to understand.
 * [Semigroup with two elements](https://en.wikipedia.org/wiki/Semigroup_with_two_elements)
 * [Magma](https://en.wikipedia.org/wiki/Magma_(algebra))
 * [Regular semigroup](https://en.wikipedia.org/wiki/Regular_semigroup)
+* [Inverse semigroup](https://en.wikipedia.org/wiki/Inverse_semigroup)
 
 ## Blogs
 * [The Unapologetic Mathematician](https://unapologetic.wordpress.com/)
