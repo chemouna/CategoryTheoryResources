@@ -40,6 +40,8 @@ i will try to put only links to material that was able to understand.
 ## Related Math concepts
 * [Field of fractions](https://en.wikipedia.org/wiki/Field_of_fractions)
 * [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
+* [Inverse element](https://en.wikipedia.org/wiki/Inverse_element)
+
 
 ## Blogs
 * [The Unapologetic Mathematician](https://unapologetic.wordpress.com/)
